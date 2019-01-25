@@ -1,0 +1,23 @@
+{
+  "name": "json2regular",
+  "version": "1.0.0",
+  "description": "json 2 regular template , used in admin backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brizer/json2regular.git"
+  },
+  "keywords": [
+    "json",
+    "regular"
+  ],
+  "author": "brizer@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brizer/json2regular/issues"
+  },
+  "homepage": "https://github.com/brizer/json2regular#readme"
+}

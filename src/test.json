@@ -1,0 +1,14 @@
+{
+    "<>":"div",
+    "id":"${id}",
+    "html":[
+        {
+            "<>":"ul",
+            "html":[
+                {"<>":"li","html":"My Name: ${fname}"},
+                {"<>":"li","html":"Last Name: ${lname}"},
+                {"<>":"li","html":"Age: ${age}"}
+            ]
+        }
+    ]
+}
