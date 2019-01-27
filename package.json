@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/brizer/json2regular/issues"
   },
-  "homepage": "https://github.com/brizer/json2regular#readme"
+  "homepage": "https://github.com/brizer/json2regular#readme",
+  "dependencies": {
+    "js-beautify": "1.8.9"
+  }
 }
