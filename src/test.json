@@ -1,14 +1,4 @@
 {
-    "<>":"div",
-    "id":"${id}",
-    "html":[
-        {
-            "<>":"ul",
-            "html":[
-                {"<>":"li","html":"My Name: ${fname}"},
-                {"<>":"li","html":"Last Name: ${lname}"},
-                {"<>":"li","html":"Age: ${age}"}
-            ]
-        }
-    ]
+    "type":"form",
+    "item":["dropdown","input","textarea","dropdown","radio-group","check","input","check-group","dateTimePicker","dateTimePickerRange"]
 }
