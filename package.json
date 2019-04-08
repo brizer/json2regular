@@ -4,7 +4,7 @@
   "description": "json 2 regular template , used in admin backend",
   "main": "index.js",
   "scripts": {
-    "commit":"npx git-cz"
+    "commit": "npx git-cz"
   },
   "repository": {
     "type": "git",
